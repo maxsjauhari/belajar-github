@@ -7,6 +7,8 @@
 </head>
 <body>
 <p>Latihan bikin komen</p>
-<h4>Belajar Git</h4>
+<h4>merubah isi text</h4>
+<h4>menambah isi text</h4>
+<h4>Belajar git diff staging</h4>
 </body>
 </html>
