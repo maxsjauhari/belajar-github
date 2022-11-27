@@ -1,1 +1,2 @@
 tambah text
+mengubah text dari file tambah1.txt
