@@ -1,0 +1,10 @@
+html>
+	<head>
+		<meta charset="utf-8">
+		<title>Halaman Login</title>
+	</head>
+	<body>
+		<h1>Ini adalah halaman register</h1>
+		<h1>silahkan masukan nama user yang ingin anda buat</h1>
+	</body>
+</html>
